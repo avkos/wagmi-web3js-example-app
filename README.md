@@ -29,11 +29,11 @@ yarn install
 
 ### 4. Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 or
 ```bash
-yarn start
+yarn dev
 ````
 
 ### 5. To run tests:
